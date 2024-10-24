@@ -17,6 +17,7 @@ nav a {
 
 img {
     max-width: 500px;
+    max-heigth: 500px
     height: auto;
     margin: 10px 0;
 }
